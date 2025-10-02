@@ -26,7 +26,7 @@ Desarrolladora Fullstack (Laravel + React)
 ```bash
 # 1) Clonar
 git clone https://github.com/lorena4516/Backend_task.git
-cd Backend_task
+cd task-api
 
 # 2) Instalar Dependencias (ejecutar en consola del proyecto)
 composer install
